@@ -14,9 +14,11 @@ npm install materialglassboxui
 
 ## Example
 
+npmPackage: https://www.npmjs.com/package/material-react-glass-box
+
 Demo Hosted Link: https://material-glass-box-ui-demo.vercel.app/
 
-![Glass Box Code Demo Preview](./CodeSSDemo.png)
+![Glass Box Code Demo Preview](./frontend/./public/CodeSSDemo.png)
 
 
 import React from "react";
